@@ -18,7 +18,7 @@ int main() { // main
     scanf("%d", &var);
     // while loop
     while(var != randNumber) {
-        printf("\nYou guessed wrong :(\n");
+        printf("\nYou guessed wrong\n");
         if(var > randNumber) {
             printf("It is lower than %d\n", var);
         }
@@ -32,7 +32,6 @@ int main() { // main
             return 0;
         }
         else if (end == 'y') {
-            printf("\nNever give up!");
             printf("\nEnter a number: ");
             scanf("%d", &var);
             break;

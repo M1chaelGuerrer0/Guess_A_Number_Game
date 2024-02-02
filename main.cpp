@@ -9,7 +9,7 @@
  //  Compiles and executes at the command prompt
 
 int main() { // main
-    printf("\nWelcome to Guess_A_Number_Game!\nI will pick a random number from 0 to 99 and you will guess the number.\n");
+    printf("\nWelcome to Guess_A_Number_Game!\nI will pick a random number from 0 to 100 and you will guess the number.\n");
     srand(time(NULL)); // random seed
     int randNumber = rand() % 101; // 0-100
     int var;

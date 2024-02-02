@@ -8,9 +8,9 @@
  // Guess_A_Number_Game
  //  Generates random integer from 0 ... 100
  //  Gets an integer from the user for guessing and a character for playing again
- //  Each attempt at the answer will provide a higher or lower prompt.
- //  Once the user guesses right a prompt to play again will occur.
- //  Compiles and executes at the command prompt.
+ //  Each attempt at the answer will provide a higher or lower prompt
+ //  Once the user guesses right a prompt to play again will occur
+ //  Compiles and executes at the command prompt
 
 int main() { // main
     printf("\nGuess a number between 0 to 100.\n");

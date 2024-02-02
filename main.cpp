@@ -6,8 +6,8 @@
 
 // Author: Michael Guerrero
  // Guess_A_Number_Game
- //  Generates random integer from 0 ... 100, in the game.cpp file linked to the game.h header.
- //  Gets an integer from the user for guessing and a character for playing again, both in the game.cpp file linked to the game.h header.
+ //  Generates random integer from 0 ... 100
+ //  Gets an integer from the user for guessing and a character for playing again
  //  Each attempt at the answer will provide a higher or lower prompt.
  //  Once the user guesses right a prompt to play again will occur.
  //  Compiles and executes at the command prompt.

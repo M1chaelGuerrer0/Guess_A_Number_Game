@@ -5,7 +5,7 @@
 // Author: Michael Guerrero
  // Guess_A_Number_Game
  //  Generates random integer from 0 ... 100
- //  Each attempt at the answer will provide a higher or lower prompt   
+ //  Each attempt at the answer will provide a higher or lower prompt and ask the user if they want to try again 
  //  Compiles and executes at the command prompt
 
 int main() { // main

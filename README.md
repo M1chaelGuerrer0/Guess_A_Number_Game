@@ -7,4 +7,5 @@ A guessing game I made for practicing C++. I will progressively update and chang
 
 ## Testing for the terminal:
 
-bin\run.exe
+To compile - build.bat
+To run - bin\run.exe
